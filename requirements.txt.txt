@@ -1,0 +1,6 @@
+pip install --ignore-installed --upgrade tensorflow
+pip install tensorflow-addons
+#!pip uninstall tensorflow==2.5.0 -y
+pip install tensorflow==1.15.0
+pip2 install tensorflow-gpu==1.15.0 --ignore-installed
+pip install tf_slim
